@@ -44,7 +44,7 @@ username,password
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Amriya-Iqbal/StudentManagementSystem.git
+   git clone https://github.com/YOUR-USERNAME/StudentManagementSystem.git
    ```
 2. Open NetBeans and choose **File → Open Project**, then select the cloned folder.
 3. Right-click the project and choose **Run**, or run `MainApp.java` located in `src/sms/main`.
@@ -74,6 +74,6 @@ On macOS/Linux, use `:` instead of `;` in the classpath.
 - Add search and filter options
 - Add input validation for emails and years
 
-## Author
+## About
 
-Developed by Amriya Iqbal.
+This is a group project developed as part of our coursework.
